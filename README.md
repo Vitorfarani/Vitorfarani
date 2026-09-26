@@ -71,8 +71,9 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Backend Payment Orchestrator** | Payment orchestration service built on a double-entry ledger for reliable financial tracking, with containerised test environments and scripted deployments | Docker · Double-entry ledger |
-| **GymCoach** | Offline-first Android app for gym coaches to manage students and workouts. Clean Architecture, TDD data layer, renders 200+ records in under 300 ms | Flutter · Dart · SQLite |
+| [**Backend Payment Orchestrator**](https://github.com/Vitorfarani/payment-orchestrator) | Payment orchestration service built on a double-entry ledger for reliable financial tracking, with containerised test environments and scripted deployments | Docker · Double-entry ledger |
+| [**PlanejaTrip**](https://github.com/Vitorfarani/PlanejaTrip) | Collaborative trip planner: invite friends, plan day by day, track budget vs. actual spend across currencies, with role-based permissions and AI itinerary suggestions | React · TypeScript · Supabase · Gemini API |
+| [**GymCoach**](https://github.com/Vitorfarani/gymcoach) | Offline-first Android app for gym coaches to manage students and workouts. Clean Architecture, TDD data layer, renders 200+ records in under 300 ms | Flutter · Dart · SQLite |
 
 ---
 
