@@ -72,9 +72,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **Backend Payment Orchestrator** | Payment orchestration service built on a double-entry ledger for reliable financial tracking, with containerised test environments and scripted deployments | Docker · Double-entry ledger |
-| **E-commerce Platform + Conversational Bot** | REST API with hybrid storage (MySQL + Cosmos DB), Azure Blob for images, and a Bot Framework chatbot for product search, purchases and order history | Java · Spring Boot · Azure |
 | **GymCoach** | Offline-first Android app for gym coaches to manage students and workouts. Clean Architecture, TDD data layer, renders 200+ records in under 300 ms | Flutter · Dart · SQLite |
-| **Binance Trading Bot** | Automated bot consuming real-time market APIs on a scheduled cycle, containerised and hosted on Azure | Java · Spring Boot · MySQL · Azure |
 
 ---
 
