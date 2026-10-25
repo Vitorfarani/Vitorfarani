@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-25 — Shorter README, aligned with the edited CV
+
+- Trimmed the README to the essentials: removed the Experience section, the intro sentence, the capstone detail and the crypto trading bot line (the CV covers these).
+- Main stack now reads JavaScript / TypeScript (Node.js, React, SQL), with PHP professionally and Java from academic projects, as in the CV.
+- Location: moving to Rio de Janeiro in December 2026, open to on-site or remote roles.
+- Featured projects shortened to one line each.
+
 ## 2026-10-25 — Match the October 2026 CV
 
 - PRODERJ corrected to **Systems Development Intern, Jan 2025 – Dec 2025** (one year), matching the CV.
