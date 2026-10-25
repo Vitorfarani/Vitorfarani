@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-25 — Match the October 2026 CV
+
+- PRODERJ corrected to **Systems Development Intern, Jan 2025 – Dec 2025** (one year), matching the CV.
+- English level set to B2 (certified, ACE English Malta).
+- Payment Orchestrator description now mentions the 550+ tests, as in the CV.
+
 ## 2026-10-20 — Profile README rewrite
 
 - PRODERJ experience now matches the CV: **Systems Developer, Feb 2024 – Feb 2026** (was "Systems Development Intern, Feb 2024 – Nov 2025"). Removed the claim that Java was used at PRODERJ, since the CV doesn't list it; the experience section now lists the three projects from the CV.

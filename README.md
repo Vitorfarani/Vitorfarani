@@ -4,12 +4,12 @@
 
 I build backend-heavy web applications and care most about the parts that tend to break: data consistency, failure handling and tests.
 
-- 💼 Two years as a Systems Developer at **PRODERJ**, the ICT centre of the State of Rio de Janeiro: a commercial contracts platform, an internal project-management tool and public government websites
+- 💼 One year as a systems development intern at **PRODERJ**, the ICT centre of the State of Rio de Janeiro: a commercial contracts platform, an internal project-management tool and public government websites
 - 🔧 Strongest in **TypeScript / Node.js** on the backend and **React** on the frontend, with professional experience in **PHP**
 - 🌱 Currently building a **crypto trading bot** in **Java (Spring Boot) + React**
 - 🎓 Degree in Systems Analysis and Development (IBMEC). My capstone benchmarked AI coding assistants and AI-assisted development workflows
 - 🇪🇺 EU citizen, currently based in Malta · open to **remote** roles or **relocation within the EU**
-- 🌍 Portuguese (native) · English (professional) · Spanish (intermediate)
+- 🌍 Portuguese (native) · English (B2, certified) · Spanish (intermediate)
 
 ---
 
@@ -18,7 +18,7 @@ I build backend-heavy web applications and care most about the parts that tend t
 ### [Payment Orchestrator](https://github.com/Vitorfarani/payment-orchestrator)
 `Node.js` `TypeScript` `PostgreSQL` `Redis/BullMQ` `Docker`
 
-Payment orchestration for marketplaces, built around one rule: money never disappears. Commission split, a double-entry ledger enforced in both the domain and the database, transactional outbox, idempotent workers with retries and a circuit breaker. 20 documented architecture decisions (ADRs), a 4-layer test suite (unit, integration with Testcontainers, contract with Pact, E2E) and strict CI quality gates.
+Payment orchestration for marketplaces, built around one rule: money never disappears. Commission split, a double-entry ledger enforced in both the domain and the database, transactional outbox, idempotent workers with retries and a circuit breaker. 20 documented architecture decisions (ADRs), a 4-layer test suite (unit, integration with Testcontainers, contract with Pact, E2E) and strict CI quality gates; 550+ tests.
 
 ### [PlanejaTrip](https://github.com/Vitorfarani/PlanejaTrip) · [Live demo ↗](https://planeja-trip.vercel.app)
 `React` `TypeScript` `Supabase` `Gemini API`
@@ -34,7 +34,7 @@ Offline-first Android app for gym coaches to manage students, workouts and load 
 
 ## Experience
 
-**Systems Developer** · PRODERJ, Rio de Janeiro · *Feb 2024 – Feb 2026*
+**Systems Development Intern** · PRODERJ, Rio de Janeiro · *Jan 2025 – Dec 2025*
 
 Built and maintained web systems for the Rio de Janeiro state government in an Agile team, working directly with stakeholders:
 
